@@ -3,11 +3,11 @@
 ---
 
 ### :man_technologist: About Me :
-🧑‍💻 Frontend Dev
++ Frontend Dev
 
-🧑‍🎓 C.S Student & Binar Academy Student
++ C.S Student & Binar Academy Student
 
-🌱 I’m currently learning Full Stack Web Development
++ Currently learning Full Stack Web Development
 
 ---
 
